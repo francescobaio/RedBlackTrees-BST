@@ -109,13 +109,4 @@ class ARN(ABR):
         z.colour = "RED"
         self.insertFixUp(z)
 
-    def height(self, node):
-        if node == None:
-            return 0
-        else:
-            l = self.height(node.left)
-            r = self.height(node.right)
-            return max(l, r) + 1
 
-    def tree_height(self):
-        return self.height(self.root)
