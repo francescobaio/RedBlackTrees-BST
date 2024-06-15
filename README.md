@@ -1,6 +1,6 @@
 ## About
 
-This project was undertaken as part of our Advanced Data Structures course. The primary objective of this project is to implement and analyze Red-Black Trees (RBT) and Binary Search Trees (BST). The project focuses on the comparative performance, efficiency, and use cases of these two fundamental data structures.
+This project was undertaken as part of our Data Structures course. The primary objective of this project is to implement and analyze Red-Black Trees (RBT) and Binary Search Trees (BST). The project focuses on the comparative performance, efficiency, and use cases of these two fundamental data structures.
 
 The implementation includes a detailed exploration of the insertion, deletion, and search operations, along with performance benchmarks to highlight the advantages and disadvantages of each structure. Additionally, the project provides visualizations to aid in understanding the behavior of RBT and BST.
 
